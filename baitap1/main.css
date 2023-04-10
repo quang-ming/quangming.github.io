@@ -1,0 +1,44 @@
+body {
+    color: #333;
+    font-family: Helvetica,sans-serif;
+    font-size: 16px;
+}
+
+.best_shared{
+    margin: 20px auto;
+    text-align: center;
+    width: 800px;
+}
+.logo{
+    margin-bottom: 15px;
+}
+.best_shared h2 strong{
+    font-weight: 600;
+    color: rgb(49, 96, 225);
+}
+.text{
+    margin-bottom: 40px;
+}
+.btn-list li{
+    text-align: center;
+}
+.btn-list li {
+    display: inline;
+    margin: 0 12px;
+}
+.btn-list li a{
+    background-color: #0e0e0f;
+    border-radius: 4px;
+    color: rgb(254, 249, 249);
+    display: inline-block;
+    height: 56px;
+    line-height: 56px;
+    min-width: 170px;
+    text-decoration: none;
+    transition: 0.3s background-color;
+
+      
+}
+.btn-list li a:hover {
+    background-color: #00aeef;
+  }
